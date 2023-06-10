@@ -1,0 +1,49 @@
+
+.hero{
+    height: 600px;
+    width: 100%;
+    background-image: url('../img/evening-1038148_1280.jpg');
+    background-size: cover;
+    position: relative;
+}
+.hero-text{
+   
+   
+ padding-top: 10%;
+  align-items: center;
+  text-align: center;
+  color: white;
+  width: 100%;   
+}
+.hero-text h1{
+    font-size: 3rem;
+    font-weight: 800;
+}
+.hero-text p{
+    font-size: 1.3rem;
+}
+.about .hide{
+    display: none;
+}
+
+button{
+    text-decoration: none;
+    background-color: #fff;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 6px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #222;
+}
+.about{
+      
+ padding-top: 15%;
+ align-items: center;
+ text-align: center;
+ color: white;
+ width: 100%;  
+ font-size: 2rem;
+    font-weight: 600;
+}
